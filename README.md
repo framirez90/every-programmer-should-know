@@ -245,5 +245,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
 
-### General Knowledge :brain:
+### Object-Oriented Programming :bookmark_tabs:
 - [The Diamond Problem](https://www.educative.io/edpresso/what-is-a-diamond-problem-in-object-oriented-programming)
+- [The ISA Relationship](https://www.youtube.com/watch?v=tVMyS8t47u8&ab_channel=PurtiSavardekar)
